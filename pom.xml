@@ -159,7 +159,7 @@
     <distributionManagement>
 	  <site>
 	    <id>shrek</id>
-	    <url>scp://@shrek.unideb.hu:2222/home/kobal01/public_html/${project.artifactId}</url>
+	    <url>scp://kobal01@shrek.unideb.hu:2222/home/kobal01/public_html/${project.artifactId}</url>
 	  </site>
     </distributionManagement>
 </project>
